@@ -1,4 +1,5 @@
 --- @sync entry
+--- @since 25.12.29
 return {
 	entry = function(_, job)
 		local current = cx.active.current
